@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.repo-list-container {
+  list-style-type: none;
+  border: 0px none transparent;
+  background-color: #f8f8ff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  width: 200px;
+  max-width: 250px;
+  padding: 10px;
+}
+.image-logo {
+  width: 80px;
+  height: 80px;
+}
+.name {
+  color: #e73959;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+.stars-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo-icon {
+  height: 20px;
+  width: 20px;
+  margin-right: 12px;
+}
+.stars-text {
+  font-family: 'Roboto';
+}

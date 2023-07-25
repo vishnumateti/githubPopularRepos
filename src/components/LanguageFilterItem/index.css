@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+  margin: 8px;
+}
+.buttons {
+  border: 0px none transparent;
+  background-color: transparent;
+  color: #0f172a;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.active-button {
+  border: 1px solid #0284c7;
+  background-color: transparent;
+  border-radius: 10px;
+  padding: 5px;
+  color: #0284c7;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
